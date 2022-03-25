@@ -1,4 +1,4 @@
 # analytics_dash_dashboard
 This is capstone project that includes building data visualization dashboard using plotly dash in python
 
-- This dash application can be deployed on AWS Elastic BeanStalk after zipping all application files and data required
+- This dash application can be deployed on **AWS Elastic BeanStalk** uploading the zip file downloaded from this [link](https://drive.google.com/file/d/15n6_TCXGrHBQQmxb20KY9oyeQBtEQx-W/view?usp=sharing)
