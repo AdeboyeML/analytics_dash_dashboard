@@ -1,0 +1,56 @@
+.VirtualizedSelectOption {
+    background-color: #060606;
+    color: white;
+}
+
+.VirtualizedSelectFocusedOption {
+    background-color: #060606;
+    font-size: 17px;
+    color: white;
+}
+
+
+*.Select-control, Select--single, .Select-multi-value-wrapper, .Select-value, .Select-value-label {
+  background-color: #060606 !important;
+  color: white !important;
+}
+
+.Select-control, .Select-menu-outer {
+  border: 1px solid dimgrey !important;
+}
+
+.mb-5 {
+    margin-bottom: 0rem !important;
+    /*padding: 0 !important;*/
+    /*border: 0 !important;*/
+    display: flex;
+}
+
+.home {
+    margin-top: 2rem !important;
+    margin-left: 5rem !important
+    margin-right: 5rem !important;
+}
+
+.range-slider-class {
+    color: white !important;
+}
+.rc-slider-mark-text {
+    color: white !important;
+}
+
+.rc-slider-mark-text-active:active {
+    color: white !important;
+}
+
+.rc-slider-mark {
+    color: white;
+}
+
+.rc-slider-track {
+  background-color: white;
+}
+
+.rc-slider-dot-active {  
+  border: 1px solid dimgrey;
+}
